@@ -3,3 +3,5 @@ ignore/
 target/
 *.iml
 settings.xml
+pom.xml.releaseBackup
+release.properties
