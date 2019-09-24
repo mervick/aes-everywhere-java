@@ -17,7 +17,7 @@ Via [maven](https://maven.apache.org/), add in dependencies of your `pom.xml`:
 <dependencies>
   <dependency>
     <groupId>com.github.mervick</groupId>
-    <artifactId>aes-everywhere</artifactId>
+    <artifactId>aes-everywhere-java</artifactId>
     <version>1.2.7</version>
   </dependency>
 </dependencies>
@@ -26,7 +26,7 @@ Via [maven](https://maven.apache.org/), add in dependencies of your `pom.xml`:
 Via [gradle](https://gradle.org/), add in dependencies of your `build.gradle`:
 ```
 dependencies {
-  implementation 'com.github.mervick:aes-everywhere:1.2.7'
+  implementation 'com.github.mervick:aes-everywhere-java:1.2.7'
 }
 ```
 

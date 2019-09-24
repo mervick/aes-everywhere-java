@@ -5,13 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.mervick</groupId>
-  <artifactId>aes-everywhere</artifactId>
+  <artifactId>aes-everywhere-java</artifactId>
   <version>1.2.7</version>
   <packaging>jar</packaging>
 
   <name>Aes Everywhere</name>
   <description>AES Everywhere is the Cross Language Encryption Library. Java implementation</description>
-  <url>https://github.com/mervick/aes-everywhere</url>
+  <url>https://github.com/mervick/aes-everywhere-java</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -22,7 +22,7 @@
   <licenses>
     <license>
       <name>MIT License</name>
-      <url>https://github.com/mervick/aes-everywhere/blob/master/LICENSE</url>
+      <url>https://github.com/mervick/aes-everywhere-java/blob/master/LICENSE</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -39,7 +39,7 @@
     <connection>scm:git:git://github.com/mervick/aes-everywhere-java.git</connection>
     <developerConnection>scm:git:git@github.com:mervick/aes-everywhere-java.git</developerConnection>
     <url>https://github.com/mervick/aes-everywhere-java</url>
-    <tag>aes-everywhere-1.2.7</tag>
+    <tag>v1.2.7</tag>
   </scm>
 
   <distributionManagement>
