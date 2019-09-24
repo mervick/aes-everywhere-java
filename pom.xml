@@ -25,13 +25,17 @@
       <url>https://github.com/mervick/aes-everywhere-java/blob/master/LICENSE</url>
       <distribution>repo</distribution>
     </license>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
   </licenses>
 
   <developers>
     <developer>
       <name>Andrey Izman</name>
       <email>izmanw@gmail.com</email>
-      <timezone>UTC+03:00</timezone>
+      <timezone>UTC+02:00</timezone>
     </developer>
   </developers>
 
